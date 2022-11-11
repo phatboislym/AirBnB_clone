@@ -44,9 +44,8 @@ The first step is to “design” / “sketch” / “prototype” each element:
 ---
 File/Folder|Task
 ---|---
-AUTHORS | the authors page
 README.md | read me file
 console.py | command line interpreter
 models | business logic
-tests | test files and folders
-webstatic | HTML, CSS and logo files
+tests | test files and packages
+web_static | HTML, CSS and logo files
